@@ -3,7 +3,7 @@ This repo consits of my implementation of models used for fine-tuning on documen
 
 ## Current Working:
 
-* Currently working on FUNSD Dataset
+* Currently working on [FUNSD Dataset](https://paperswithcode.com/dataset/funsd)
 
 ## WANDB Report:
 
