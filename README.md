@@ -7,4 +7,5 @@ This repo consits of my implementation of models used for fine-tuning on documen
 
 ## WANDB Report:
 
-The wandb report can be found out here [here](https://wandb.ai/iakarshu/Document%20AI?workspace=user-iakarshu)
+FUNSD Dataset:
+* The wandb progress report can be found out here [here](https://wandb.ai/iakarshu/Document-AI-FUNSD?workspace=)
