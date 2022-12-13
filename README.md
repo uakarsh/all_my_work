@@ -3,7 +3,7 @@ This repo has my implementation of models used for fine-tuning on document AI ta
 
 1. [Finetuning LayoutLMV3 on FUNSD Dataset](https://github.com/uakarsh/all_my_codes/blob/main/Document%20AI/funsd_dataset/document-ai-finetuning-1-funsd-on-layoutlmv3.ipynb)
 2. [Finetuning LiLT on FUNSD Dataset](https://github.com/uakarsh/all_my_codes/blob/main/Document%20AI/funsd_dataset/document-ai-finetuning-2-funsd-on-lilt.ipynb)
-3. [Finetuning RoBERTa on FUNSD Dataset]
+3. [Finetuning RoBERTa on FUNSD Dataset](https://github.com/uakarsh/all_my_work/blob/main/Document%20AI/funsd_dataset/document-ai-finetuning-3-funsd-on-roberta.ipynb)
 4. [Finetuning DocFormer on FUNSD Dataset](https://github.com/uakarsh/all_my_work/blob/main/Document%20AI/funsd_dataset/document-ai-finetuning-4-funsd-on-docformer.ipynb)
 
 ## Current Working:
